@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ʟᴏs ʀɪᴏs 🚘 𝗠𝗗 𝗕𝗢𝗧",
+      "value"DON 🚘 𝗠𝗗 𝗕𝗢𝗧",
       "required":false
 
     } ,
@@ -66,13 +66,13 @@
     {
       "description":"put your session ID , the code you receive after scanning Qr code or pair code",   
       "value":"",
-      "required":true
+      "required":false
       
     },
-    "OWNER_NAME":
+    "OWNER_NAME":DON
     {
     
-    "desc": "Your Name",
+    "desc": "DON",
     "required": false,
     "value": "MR VENOCYBER"
   },
@@ -80,8 +80,8 @@
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-    "required":false,
-    "value": "255698101622"
+    "required": True,
+    "value"0719929859"
   },
     "WARN_COUNT":
   {
